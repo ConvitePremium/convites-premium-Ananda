@@ -47,11 +47,11 @@ window.CONFIG = {
   telas: {
     video: true,
     whatsapp: true,
-    localizacao: false,
+    localizacao: true,
     presentes: true,
     dresscode: false,
     manual: false,
-    contagem: false
+    contagem: true
   },
 
   // ----- PIX OPCIONAL (SUGESTÕES DE PRESENTES) ---------------------------
@@ -115,7 +115,7 @@ window.CONFIG = {
   // corLegenda altera a cor de Meses, Dias, Horas, Min e Seg.
   // Aceita hexadecimal, nome de cor ou rgb().
   contagem: {
-    dataEvento: "2026-08-29T18:30:00",
+    dataEvento: "2027-12-02T19:00:00",
     textoFinal: "A festa começou!",
     corNumero: "#ffffff",
     corLegenda: "#ffffff",
