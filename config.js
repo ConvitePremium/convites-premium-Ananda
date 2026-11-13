@@ -113,7 +113,7 @@ window.CONFIG = {
   // corLegenda altera a cor de Meses, Dias, Horas, Min e Seg.
   // Aceita hexadecimal, nome de cor ou rgb().
   contagem: {
-    dataEvento: "2027-12-02T19:00:00",
+    dataEvento: "2027-02-12T19:00:00",
     textoFinal: "A festa começou!",
     corNumero: "#ffffff",
     corLegenda: "#ffffff",
